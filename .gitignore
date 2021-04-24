@@ -1,0 +1,4 @@
+*.docx
+*.csv
+.ipynb_checkpoints
+References
